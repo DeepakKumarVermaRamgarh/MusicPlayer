@@ -1,5 +1,5 @@
 
-# Image Search Engine
+# Basic Music Player
 
 This is a basic music player project using HTML, CSS, and JavaScript.
 
